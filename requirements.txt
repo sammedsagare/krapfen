@@ -1,0 +1,5 @@
+discord.py==1.7.2
+requests
+discord-py-slash-command
+aiohttp
+
